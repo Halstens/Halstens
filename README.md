@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pavel
 =============================================================================================================================
 
-Fullstack developer and tester
+Fullstack developer
 ----------------------------
 
 uhaha
 
 * 🌍  I'm based in Russia, Kazan
-* 🧠  I'm learning NodeJS, DRF..
+* 🧠  I'm learning Go..
 * ⚡  I love kitkat and choco pie
 
 <a href="https://www.github.com/Royselect" target="_blank" rel="noreferrer"><img
